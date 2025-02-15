@@ -1,3 +1,3 @@
-# Imagram
+# Imageram
 
 well just changing something
